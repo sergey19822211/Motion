@@ -1,0 +1,330 @@
+
+
+
+.header_wrapper{
+	height: 111px; background: url(../img/header_wrapper.png) repeat-x top left;
+}
+.header{
+	height: 111px; background: url(../img/header_bg.png) no-repeat top right;
+	padding:40px 0 45px 0; 
+}
+.menu_logo_block{
+	background-color: transparent; border: none;
+}
+.navbar-default .navbar-nav > li > a{
+	font-family: Arial; font-weight: bold; font-size:16px; color:#fff; padding:9px 13px;
+	-webkit-border-radius:5px;
+	   -moz-border-radius:5px;
+	    -ms-border-radius:5px;
+	     -o-border-radius:5px;
+	        border-radius:5px;
+}
+.navbar-default .navbar-nav > li > a:hover{
+	background: #000; color:#fff; 
+}
+.top_menu{
+	margin-top:-6px;
+}
+.navbar-brand > img{
+	 margin-top: -35px;
+}
+.collapse.in{
+	background-color: #f56262; position: relative; z-index: 9999;
+}
+
+
+
+
+
+
+
+.top_slider_bg{
+	 background: url(../img/top_slider_bg.png) repeat-x top left; margin-top: -1px;
+	text-align: center;
+}
+.top_slider_bg h1{
+	font-family: Arial; font-weight: regular; font-size:60px; color:#fff; text-align: center;
+}
+.top_slider_bg h6{
+	font-family: Arial; font-weight: regular; font-size:20px; color:#fff; text-align: center;
+}
+.carousel-control.left_side{
+	background-image: none; height:200px; margin-top: 150px; margin-left: 100px;  
+}
+.carousel-control.right_side{
+	background-image: none; height:200px; margin-top: 150px; margin-right: 100px; 
+}
+.item img{
+	margin:0 auto;
+}
+.carousel{
+	margin:35px 0 19px 0;
+}
+
+
+
+
+
+
+.smart_creative_bg{
+	background: #232324; 
+}
+.smart_creative_bg h3{
+	font-family: Arial; font-size:40px; color:#fff; text-align: center; margin-top: 40px;
+}
+.smart_creative_bg h6{
+	font-family: Arial; font-size:20px; color:#d94948; text-align: center; margin-bottom:35px;
+}
+.smart_creative_bg_block{
+	text-align: center;
+}
+.smart_creative_bg_block h4{
+	font-family: Arial; font-size:30px; color:#fff;
+}
+.smart_creative_bg_block h6{
+	font-family: Arial; font-size:18px; color:#d94948;
+}
+
+
+
+
+
+.talented_experts_bg{
+	background: #6cc372; padding: 0 0 25px 0;
+}
+.talented_experts_bg h3{
+	font-family: Arial; font-size:40px; color:#fff; text-align: center; margin-top: 40px;
+}
+.talented_experts_bg h6{
+	font-family: Arial; font-size:20px; color:#000; text-align: center; margin-bottom:35px;
+}
+.photo_block{
+	background: #fff; text-align: center; padding: 25px 11px 11px 11px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-ms-border-radius:5px;
+	-o-border-radius:5px;
+	border-radius:5px;
+}
+.photo_block img{
+
+}
+.photo_block h3{
+	font-family: Arial; font-size:21px; color:#61af66;
+}
+.photo_block p{
+	font-family: Arial; font-size:18px; color:#d94948;
+}
+.photo_block button{
+	width: 100%; background: #6cc372; font-family: Arial; font-size:25px; color:#fff; 
+}
+.col-lg-3{
+	padding:0 7px;
+}
+.fa-twitter{
+	margin-left:-50px;
+}
+
+
+
+
+
+.portfolio_slider{
+	background: #f0f0f0; text-align: center; padding:43px 0 0 0;
+}
+.portfolio_slider h3{
+	font-family: Arial; font-size:40px; color:#616161;
+}
+.portfolio_slider h6{
+	font-family: Arial; font-size:20px; color:#61af66; margin-bottom: 35px;
+}
+.owl-carousel .owl-wrapper-outer{
+	margin-bottom: 30px;
+}
+.item p{
+	font-family: Arial; font-size:21px; color:#232324; margin-top: 26px;
+}
+.owl-theme .owl-controls{
+	margin-bottom: 38px;
+}
+
+
+
+
+.tarifeplane_title{
+	-webkit-border-radius:5px 5px 0 0;
+	-moz-border-radius:5px 5px 0 0;
+	-ms-border-radius:5px 5px 0 0;
+	-o-border-radius:5px 5px 0 0;
+	border-radius:5px 5px 0 0;
+	border-bottom: 1px solid #d8d8d8;
+}
+.tarifeplane_bg{
+	background: url(../img/tarifeplane_bg.png) repeat-x top left; 
+}
+.tarifeplane_title{
+	background: #fff; text-align: center; padding: 17px 0 24px 0;
+}
+.tarifeplane_title h3{
+	font-family: Arial; font-size:40px; color:#616161; margin:0;
+}
+.tarifeplane_title h6{
+	font-family: Arial; font-size:20px; color:#eb4f4e; margin:0;
+}
+.tarifeplane{
+	margin-top:33px;
+}
+.tarifeplane ul{
+	margin:0; padding:0; list-style-type: none;
+}
+.tarifeplane ul li{
+	 text-align: center;
+}
+.tarifeplane ul li a{
+	display: block; padding: 17px 0; border-bottom:1px solid #d8d8d8;
+	background: #f0f0f0; text-decoration: none;
+	font-family: Arial; font-size:18px; color:#616161; 
+} 
+.tarifeplane ul li a:hover{
+	background: #fff;
+}
+.tarifeplane_price strong{
+	font-size: 64px; color:#fff;
+}
+.fa-usd{
+	position: relative; top:; font-size: 32px !important; color:#fff; position: relative;
+	top:-5px;
+}
+.tarifeplane_price{
+	background: #616161; padding: 0 11px 0 11px;
+}
+.tarifeplane_price span{
+	color:#fff; font-size:25px;
+}
+.order{
+	font-family: Arial; font-size:21px; color:#616161; padding: 0 17px; margin-top: 35px;
+}
+.standart{
+	margin-top: 11px;
+}
+.standart h3{
+	color:#eb4f4e;
+}
+.standart h6{
+	color:#616161;
+}
+.standart .tarifeplane_price{
+	background: #eb4f4e;
+}
+.standart_order{
+	color:#eb4f4e;
+}
+.tarifeplane_more{
+	 text-align: center;  margin:20px 0;	
+}
+.tarifeplane_more a{
+	font-family: Arial; font-size:20px; color:#eb4f4e;
+}
+
+
+
+
+
+.bottom_slider_bg{
+	background: #eb4f4e; 
+}
+
+
+
+
+
+
+.icons_copyriht_bg{
+	background-color: #232324; overflow: hidden; 
+}
+.icons_copyriht_bg p{
+	font-family: Arial; font-size:18px; color:#fff; float: left; margin-top: 10px;
+}
+.icons_copyriht_bg span{
+	font-family: Arial; font-size:18px; color:#eb4f4e;
+}
+.icons{
+	 float:right; margin:5px 0 5px 10px;	
+}
+.fa-twitter-square{
+	font-size: 40px !important; color:#eb4f4e;
+}
+.fa-facebook-square{
+	font-size: 40px !important; color:#eb4f4e;
+}
+.fa-rss-square{
+	font-size: 40px !important; color:#eb4f4e;
+}
+
+
+
+
+
+.map_bg{
+	background: url(../img/footer_map.png) no-repeat top center; height: 251px;
+	background-size: cover; padding-top: 68px;
+}
+.adress_block{
+	width: 65%;  background-color: #373737; opacity: 0.93;
+	margin:0 auto; position: relative; padding:10px 0;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-ms-border-radius:5px;
+	-o-border-radius:5px;
+	border-radius:5px; 
+}
+.adress_block::after{
+	content: ''; 
+    position: absolute; /* Абсолютное позиционирование */
+    left:50%; bottom: -20px; /* Положение треугольника */
+    border: 10px solid transparent; /* Прозрачные границы */
+    border-top: 10px solid #373737; /* Добавляем треугольник */
+   }
+.adress_block_text h3{
+	font-family: Arial; font-size:30px; color:#fff; margin:0; text-align: center;
+}
+.adress_block_text p{
+	font-family: Arial; font-size:20px; color:#eb4f4e; text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width :490px){
+.icons_copyriht_bg{text-align:center;}
+.icons{float:none; display: inline-block;}
+.icons_copyriht_bg p{float:none;}
+}
+
+@media only screen and (max-width :992px){
+.photo_block button{width: 202px;}
+.photo_block{ margin-bottom: 20px;}
+}
+
+@media only screen and (max-width : 767px){
+.navbar-default .navbar-nav > li > a{color:#000;}
+.navbar-default .navbar-nav > li > a:hover{color:#fff;}	
+.top_menu{margin-top:23px;}
+.navbar-toggle{margin-right: 74px; margin-top: 3px;}
+.carousel-control.left, .carousel-control.right{display: none;}
+.adress_block{padding-bottom: 1px;}
+}
+
+@media only screen and (max-width :326px){
+.navbar-brand > img{width:100px; margin-top: -15px;}
+}
